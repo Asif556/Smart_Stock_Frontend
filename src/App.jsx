@@ -13,6 +13,8 @@ import RetrieveItemsPage from './pages/RetrieveItemsPage';
 import NewsPage from './pages/NewsPage';
 import FinancialReportsPage from './pages/FinancialReportsPage';
 import FruitFreshnessPage from './pages/FruitFreshnessPage';
+
+
 function App() {
   return (
     <AuthProvider>
